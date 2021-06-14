@@ -4,3 +4,4 @@ Hi, i'm Damon. A 2nd year Bioinformatician Apprentice at Anglia Rusking Universi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DLBPointon&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DLBPointon&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
