@@ -10,11 +10,11 @@ During my time at these institutes I have gained a significacnt amount of experi
 
 <details>
   
-- In creating a number of full stack projects, such as [GRIT-realtime](https://github.com/DLBPointon/grt-v5) (for use at Sanger where it integrates with the local JIRA plotform), university projects such as a [COVID tracker](https://github.com/DLBPointon/covid19-graphs-DLBPointon) which is still viewable [Here](https://dlbpointon.github.io/covid19-graphs-DLBPointon/) as portfolio evidence.
+- In creating a number of full stack projects, such as [GRIT-realtime](https://github.com/DLBPointon/grt-v5) (for use at Sanger where it integrates with the local JIRA platform), university projects such as a [COVID tracker](https://github.com/DLBPointon/covid19-graphs-DLBPointon) which is still viewable [Here](https://dlbpointon.github.io/covid19-graphs-DLBPointon/) as portfolio evidence.
 
 - In personal projects. I use a tool called [Obsidian](https://obsidian.md/) a second brain designed to powerful and customisable whilst making use of Markdown. In light of this I have written [QuickAdd-NCBI](), which adds taxonomic data from NCBI into a note, and contributed to a number of projects which extend the use of Obsidian such as [QuickAdd-Books](https://github.com/DLBPointon/script_googleBooks_quickAdd), Booksidian and [Obsidian-Plotly](https://github.com/DLBPointon/obsidian-plotly). In the future I plan to create a full plugin to integrate a wider breadth of the NCBI API into Obsidian, especially due to the large number of biologists and bioinformaticians that use the software.
 
-- Javascript. Due to experience from the above I have al written some small Javascript scripts for ToLQC which graph various statistics.
+- Javascript. Due to experience from the above I have al written a significant amount of JS as well as some small Javascript scripts for ToLQC which graph various statistics.
 
 </details>
   
