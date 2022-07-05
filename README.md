@@ -4,7 +4,7 @@ I'm currently 3rd year Bioinformatics Apprentice at Anglia Rusking University wo
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DLBPointon&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-During my time at these institutes I have gained a significacnt amount of experiace in:
+During my time at these institutes I have gained a significant amount of experiace in:
 
 ## HTML and Javascript
 
@@ -37,5 +37,7 @@ During my time at these institutes I have gained a significacnt amount of experi
 - Snakemake. For a universioty project, I wrote a variant annotation pipeline using Illumina data.
 
 - Nextflow DSL2. I am currently working on translating the Snakemake annotation pipeline into Nextflow for wider adoption at Sanger in the DTOL project, This will be using the nf-core production guidelines, allowing for "plug and play" functionality.
+
+- I have also aided in the building of TeloSearch and TreeVal (NF-core standard), both of which are DSL2 pipelines in use at Sanger.
   
 </details>
