@@ -2,6 +2,7 @@ Hi, i'm Damon.
 
 I'm currently 3rd year Bioinformatics Apprentice at Anglia Rusking University working at Sanger Wellcome Genome Campus with ToLA (Tree of Life Assembly Team).
 
+My GitHub contributions may appear as either DLBPointon or as dp24.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DLBPointon&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 During my time at these institutes I have gained a significant amount of experiace in:
