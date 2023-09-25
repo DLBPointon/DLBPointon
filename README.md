@@ -23,7 +23,7 @@
 ---
 ### :man_technologist: About Me:
 
-I'm a Bioinformatian working at Sanger Wellcome Genome Campus (UK) inside ToLA (Tree of Life Assembly Team). My day-to-day role includes building Nextflow Pipelines, namely [TreeVal](https://github.com/sanger-tol/treeval), for the scaling genomic analysis.
+I'm a Bioinformatian working at Sanger Wellcome Genome Campus (UK) inside ToLA (Tree of Life Assembly Team). My day-to-day role includes building Nextflow Pipelines, namely [TreeVal](https://github.com/sanger-tol/treeval), for the scaling of genomic analysis.
 
 
 ### :fire: My Stats :
