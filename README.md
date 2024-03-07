@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://publish-01.obsidian.md/access/e92f913c6458c80f98557a83c6402d17/Images/logo4.png" width="220"/>
-</div>
-
 <div id="badges" align="center">
   <a href="www.linkedin.com/in/dlbpointon">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
